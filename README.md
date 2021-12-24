@@ -11,6 +11,7 @@
 ### Цель: Соискание работы системного администратора
 
 ### Ожидаемая з/п: не менее 100тыс. рублей
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanSpinkov&show_icons=true&theme=default)
 ---
 ## Дополнительные данные:
 >## • Не женат,
@@ -130,7 +131,7 @@
 
 ## Goal: Job search for a system administrator
 
-## Expected salary: at least 100 thousand rubles
+## Expected salary: at least 1400$
 ---
 ## Additional data:
 >## • Not married,
