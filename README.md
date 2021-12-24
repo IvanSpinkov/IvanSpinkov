@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=IvanSpinkov&color=black&style=flat-square)
+![](https://komarev.com/ghpvc/?username=IvanSpinkov&color=grey&style=flat-square)
 ## Резюме
 ---
 ### Спинков Иван Олегович
