@@ -112,6 +112,9 @@
 ![image](https://user-images.githubusercontent.com/96628660/147369652-bcbadce2-a6fb-42b0-b67c-76d34c6289fb.png)
 ![image](https://user-images.githubusercontent.com/96628660/147405985-28b6957b-df4e-488a-839b-1bcebe6933f3.png)
 ![image](https://user-images.githubusercontent.com/96628660/147406003-e473a56d-c352-40cb-845f-859c5ec924a9.png)
+![image](https://user-images.githubusercontent.com/96628660/147406618-3609d434-eee5-4446-a216-abc66e9a2e82.png)
+![image](https://user-images.githubusercontent.com/96628660/147407101-97ec5d4a-8c56-4583-b577-04f7e4ba67e3.png)
+![image](https://user-images.githubusercontent.com/96628660/147407118-7be1218d-46a6-4fcb-8322-e87c72df540b.png)
 
 ![image](https://user-images.githubusercontent.com/96628660/147369886-bfacaf8b-2067-4533-976a-d0fa746e58ba.png)
 ## Дополнительная связь со мной:
@@ -222,6 +225,15 @@
 >## • Logical thinking;
 >## • Communication skills;
 >## • Ability to work in a team.
+---
+## My Certificates:
+   ![image](https://user-images.githubusercontent.com/96628660/147406055-3c6d5226-bae6-4b59-bd00-d4c587b04187.png)
+![image](https://user-images.githubusercontent.com/96628660/147406060-66d0d88d-706b-43dd-8694-b7cf8dce7698.png)
+![image](https://user-images.githubusercontent.com/96628660/147406068-2b71d37e-ad2c-4755-ab6f-3d0ca78a9556.png)
+![image](https://user-images.githubusercontent.com/96628660/147406624-52ad8438-be1c-4356-a0c8-ea58416e6afd.png)
+![image](https://user-images.githubusercontent.com/96628660/147407105-887e212f-0609-466d-9567-fa1580af78af.png)
+![image](https://user-images.githubusercontent.com/96628660/147407110-8ba87d3d-79c6-4c7b-ae79-11a67156889c.png)
+
 ## Additional contact with me:
 
 <p align='left'>
