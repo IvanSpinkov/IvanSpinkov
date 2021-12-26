@@ -110,6 +110,9 @@
 ![image](https://user-images.githubusercontent.com/96628660/147369320-784b484e-4c94-4103-b072-95f702ef7435.png)
 ![image](https://user-images.githubusercontent.com/96628660/147369530-e91a2f48-e076-43d6-8068-addde7fc494d.png)
 ![image](https://user-images.githubusercontent.com/96628660/147369652-bcbadce2-a6fb-42b0-b67c-76d34c6289fb.png)
+![image](https://user-images.githubusercontent.com/96628660/147405985-28b6957b-df4e-488a-839b-1bcebe6933f3.png)
+![image](https://user-images.githubusercontent.com/96628660/147406003-e473a56d-c352-40cb-845f-859c5ec924a9.png)
+
 ![image](https://user-images.githubusercontent.com/96628660/147369886-bfacaf8b-2067-4533-976a-d0fa746e58ba.png)
 ## Дополнительная связь со мной:
 <p align='left'>
