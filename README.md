@@ -13,6 +13,7 @@
 
 ### Ожидаемая з/п: не менее 100тыс. рублей
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanSpinkov&show_icons=true&theme=default)
+
 ---
 ## Дополнительные данные:
 >## • Не женат,
@@ -99,6 +100,9 @@
 >## • Логическое мышление;
 >## • Коммуникабельность;
 >## • Умение работать в команде.
+---
+## О себе:  
+### Активно занимаюсь самообразованием, ранее увлекался музыкой , спортивной борьбой, изучал искусство и творчество зарубежных хужожников, также за последний год изучил книги: «Оптимизация и продвижение сайтов в поисковых системах», «SEO - искусство раскрутки сайтов», «Искусство  продвижения сайта, «Полное Руководство по карьере разработчика программного обеспечения», «Хакерство: Искусство эксплуатации 2-е издание». Прошёл сертификацию по «Введение в Интернет-Рекламу», «Обеспечение безопасности персональных данных», «Основы Sql», «Анализ управления рисками в ИС на базе ОС Microsoft», «Введение в разработку приложений на Windows». Я серьезно настроен реализоваться в этой сфере и продолжаю развиваться в выбранном направлении, не остановливаясь иду к своей цели. Полученное образование помогает и даёт некоторое преимущество перед другими кандидатами - имею у себя хорошую базу знаний и методик в управлении IT-командами, понимание  структуры и процессов сферы.
 ---
 ## Грамоты,сертификаты и личные достижения:
 ![image](https://user-images.githubusercontent.com/96628660/147368760-77e70ce8-d918-49ee-a6a4-8b628ad7bbef.png)
@@ -226,6 +230,9 @@
 >## • Logical thinking;
 >## • Communication skills;
 >## • Ability to work in a team.
+---
+## About myself: 
+### I am actively engaged in self-education, previously I was fond of music, wrestling, studied the art and creativity of foreign artists, also over the past year I have studied books: "Optimization and promotion of sites in search engines", "SEO - the art of website promotion", "The Art of website promotion, "A complete Guide to the career of a software developer", "Hacking: The Art of exploitation 2nd edition". He was certified in "Introduction to Internet Advertising", "Ensuring the security of personal data", "Sql Basics", "Risk Management Analysis in Microsoft OS-based IP", "Introduction to Windows Application Development". I am seriously determined to realize myself in this area and continue to develop in the chosen direction, without stopping going to my goal. The received education helps and gives some advantage over other candidates - I have a good knowledge base and techniques in managing IT teams, an understanding of the structure and processes of the sphere.   
 ---
 ## My Certificates:
    ![image](https://user-images.githubusercontent.com/96628660/147406055-3c6d5226-bae6-4b59-bd00-d4c587b04187.png)
