@@ -10,7 +10,7 @@
 ### Опыт работы: 2019-2021 Фриланс и стажировка
 
 ### Цель: Соискание работы системного администратора
-### Мой проект : [проект](https://github.com/IvanSpinkov/Proekt)
+### Мой проект : [🍲](https://github.com/IvanSpinkov/Proekt)
 ### Ожидаемая з/п: не менее 100тыс. рублей
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanSpinkov&show_icons=true&theme=default)
 
